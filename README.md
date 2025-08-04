@@ -1,2 +1,2 @@
 # Data-management-and-Curation
-Repository for DMA820 courseworks
+Repository for DMA820 coursework
